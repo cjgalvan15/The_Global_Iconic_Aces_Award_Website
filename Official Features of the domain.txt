@@ -1,0 +1,42 @@
+The Global Iconic Aces Awards
+
+Purpose:
+-> to introduce the vision, mission, goals & objectives
+    (a) Type of organization: Non-governmental Organization (NGO)
+    (b) Mission: to honor the astounding and inspirational ICONS Standing Tall and Leading their industries forward.
+
+-> To introduce the founder/president of this event
+     (a) President of the organization: Bennilyn Molina 
+
+-> To introduce its global impact 
+   (a) Events
+   -> 
+
+
+routes:
+#1: Homepage
+-> Incoming Events Section
+-> Contact-us section
+-> Completed Events
+-> 
+
+#2: About
+->
+
+#3: Contact-us
+->
+
+#4: Events
+->
+
+#5: Completed-events
+->
+
+#6: Incoming-events
+->
+
+
+
+Features:
+- Talk to Us (chat system)
+- Login
